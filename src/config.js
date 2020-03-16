@@ -2,7 +2,7 @@ import cors from 'cors';
 import bodyParser from 'body-parser';
 import morgan from 'morgan';
 
-export default app => {
+export default (app) => {
   app.disable('x-powered-by');
 
   app.use(bodyParser.json());
