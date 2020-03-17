@@ -1,6 +1,7 @@
 import express from "express";
 import config from "./config";
 import router from "./router";
+import "./database";
 const app = express();
 
 // Config
