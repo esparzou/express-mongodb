@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/app.js --exec babel-node",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon -r dotenv/config src/app.js --exec babel-node"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "morgan": "^1.9.1"
   },

@@ -5,6 +5,6 @@ const app = express();
 // Config
 config(app);
 
-app.listen(6060, () =>
-  console.log("El servidor ha sido inicializado: http://localhost:6060")
+app.listen(process.env.PORT, () =>
+  console.log(`El servidor ha sido inicializado: http://${process.env.HOST}:${process.env.PORT}`)
 );
