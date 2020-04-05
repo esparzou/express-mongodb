@@ -2,19 +2,19 @@
 Simple API REST with Node, Expres and MongoDB
 
 ## Prerequisites
-- 💻 [NodeJs](https://nodejs.org/es/)
-- 📦 [Npm](https://www.npmjs.com/)
-- 🚀 [Express](https://expressjs.com/)
-- 💾 [MongoDB](https://www.mongodb.com/)
-- 📮 [Postman](https://www.postman.com/) 
+  💻 [NodeJs](https://nodejs.org/es/)
+  📦 [Npm](https://www.npmjs.com/)
+  🚀 [Express](https://expressjs.com/)
+  💾 [MongoDB](https://www.mongodb.com/)
+  📮 [Postman](https://www.postman.com/) 
 
 ## Used dependencies
-- 📦 [Nodemon](https://www.npmjs.com/package/nodemon)
-- 📦 [Body-parser](https://www.npmjs.com/package/body-parser)
-- 📦 [Mongoose](https://mongoosejs.com/)
-- 📦 [Babel](https://babeljs.io/)
-- 📦 [Cors](https://www.npmjs.com/package/cors)
-- 📦 [Morgan](https://www.npmjs.com/package/morgan)
+  📦 [Nodemon](https://www.npmjs.com/package/nodemon)
+  📦 [Body-parser](https://www.npmjs.com/package/body-parser)
+  📦 [Mongoose](https://mongoosejs.com/)
+  📦 [Babel](https://babeljs.io/)
+  📦 [Cors](https://www.npmjs.com/package/cors)
+  📦 [Morgan](https://www.npmjs.com/package/morgan)
 - 📦 [Dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Project structure
